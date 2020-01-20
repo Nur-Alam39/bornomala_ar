@@ -9,12 +9,12 @@ BornomalaAR is an Augmented Reality (AR) based Bangla alphabets learning app wit
 - Play sound and display related 3D object when the camera is placed on the book page
 
 ## Technologies:
-**Programming Language:** C#,
-**IDE:** Monodevelop
-**Platform:** Unity3D 
-**AR SDK:** Vuforia 
-**3D Model:** Blender3D
-**Design:** Adobe Illustrator
+- **Programming Language:** C#,
+- **IDE:** Monodevelop
+- **Platform:** Unity3D 
+- **AR SDK:** Vuforia 
+- **3D Model:** Blender3D
+- **Design:** Adobe Illustrator
 
 ## Required Materials:
 1.  Printed book [pdf Link](https://drive.google.com/open?id=1VJeN24Jcn3CvZrHRdj9AaDYhAnr8HSCn)
